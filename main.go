@@ -2,16 +2,16 @@ package main
 
 import "fmt"
 
-// type User struct {
-// 	id				int64
-// 	name			string
-// 	surname			string
-// 	login			string
-// 	password		string
-// 	sex				string
-// 	age				int64
-// 	userInfo		string
-// }
+type User struct {
+	id				int64
+	name			string
+	surname			string
+	login			string
+	password		string
+	sex				string
+	age				int64
+	userInfo		string
+}
 
 // func ChangeInfo(){
 
